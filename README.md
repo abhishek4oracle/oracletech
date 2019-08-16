@@ -1,0 +1,2 @@
+# oracletech
+oracle related 
